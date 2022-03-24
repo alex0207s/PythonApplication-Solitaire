@@ -8,4 +8,4 @@ You can play a solitaire with this Telegram Bot. Enjoy with it. :)
 type "/start" to the chatbot
 
 Telegram Bot: https://t.me/liao_chone_wei_bot <br />
-This is my demo video: https://youtu.be/YidBdy5lC0A
+
